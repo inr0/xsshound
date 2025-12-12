@@ -1,4 +1,4 @@
-# XSSHound 🐺  
+# XSSHound
 Advanced Reflected XSS Detection Tool
 
 XSSHound is a lightweight but powerful reflected XSS scanner designed for security researchers and penetration testers.  
@@ -17,4 +17,5 @@ XSSHound automatically:
 python xsshound.py -u <url> -f <parameter> -p <payload_file> -c <cookie> [-m get|post]
 ```
 ## Example 
+
 ![Example GIF](example.gif)
